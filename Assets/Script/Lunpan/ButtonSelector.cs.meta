@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58e63c08c2a8dee4bb8f592ed3f56511
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {instanceID: 0}
+  - videoDisplay: {instanceID: 0}
+  - selectSound: {fileID: 8300000, guid: a4e5e5e457b28634898a5f44e2f6f854, type: 3}
+  - correctSound: {fileID: 8300000, guid: a4e5e5e457b28634898a5f44e2f6f854, type: 3}
+  - wrongSound: {instanceID: 0}
+  - successSound: {instanceID: 0}
+  - videoOverlay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

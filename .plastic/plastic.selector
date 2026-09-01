@@ -1,0 +1,4 @@
+repository "success@tj_jolyne_103@cloud.cn"
+  path "/"
+    smartbranch "/main"              
+     

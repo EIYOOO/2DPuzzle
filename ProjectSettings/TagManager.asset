@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleport
+  - shuffling
+  - Persistent
+  - Video
+  - Popup
+  - Item
+  - Collection
+  - Interactive
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - backGroundUI
+  - Water
+  - UI
+  - Items
+  - 
+  - Interactables
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backGroundUI
+    uniqueID: 1812048985
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI_Animations
+    uniqueID: 2543938803
+    locked: 0
+  - name: Back
+    uniqueID: 2016970909
+    locked: 0
+  - name: Middle
+    uniqueID: 3209558879
+    locked: 0
+  - name: Front
+    uniqueID: 773076569
+    locked: 0
+  - name: UI
+    uniqueID: 2960367255
+    locked: 0
+  - name: Items
+    uniqueID: 2827462515
+    locked: 0
